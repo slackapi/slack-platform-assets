@@ -1,3 +1,5 @@
 # slack-platform-assets
 
-Images, templates, and [Sketch](https://www.sketchapp.com/) files to aid designing and presenting your Slack apps
+Use these images, templates, and [Sketch](https://www.sketchapp.com/) files to storyboard, design, and present your Slack app.
+
+Built for you by the Slack Platform Design Team.
